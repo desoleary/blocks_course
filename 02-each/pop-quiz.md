@@ -1,0 +1,1 @@
+1. Methods such as each that invoke a block of code repeatedly are called `iterators`.
